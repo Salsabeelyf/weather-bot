@@ -1,4 +1,4 @@
-var hh = require('./index.js');
+var hh = require('./hellohttp.js');
 hh.helloHttp();
 
 /*var http  = require('http');
