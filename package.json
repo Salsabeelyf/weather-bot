@@ -16,6 +16,10 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Salsabeelyf/weather-bot/issues"
+  }, 
+  "engine":{
+    "node": "9.2.0",
+    "npm": "5.6.0"
   },
   "homepage": "https://github.com/Salsabeelyf/weather-bot#readme"
 }
